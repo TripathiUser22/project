@@ -1,0 +1,1 @@
+ # snail_x_position-=4
